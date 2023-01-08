@@ -7,6 +7,8 @@
     "start": "remix-serve build"
   },
   "dependencies": {
+    "@googlemaps/react-wrapper": "^1.1.35",
+    "@react-leaflet/core": "^2.1.0",
     "@remix-run/node": "^1.9.0",
     "@remix-run/react": "^1.9.0",
     "@remix-run/serve": "^1.9.0",
